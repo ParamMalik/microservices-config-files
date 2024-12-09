@@ -1,6 +1,6 @@
 logging.level:
   org.springframework.security: TRACE
-  root: TRACE
+  #root: TRACE
 
 eureka:
   instance:
